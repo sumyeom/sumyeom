@@ -68,7 +68,7 @@
 
 <div align="left">
   <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">📄 Experience</h2>
-  <a href="https://github.com/sumyeom?tab=repositories">
+  <a href="https://github.com/sumyeom/GameMateProject">
     [GameMate 2025.01 ~ 2025.2]
   </a>
   <br>
