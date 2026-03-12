@@ -56,7 +56,7 @@
 <br>
 
 <div align="left">
-  <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">📄 Experience</h2>
+  <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">⌛️ Experience</h2>
   <a href="https://github.com/sumyeom/sumyeom/blob/main/image/certificates/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84%20Spring%207%EA%B8%B0.png">
     [내일배움캠프 Spring 7기 2024.11 ~ 2025.2]
   </a>
@@ -67,7 +67,7 @@
 </div>
 
 <div align="left">
-  <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">📄 Experience</h2>
+  <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">💻 Project</h2>
   <a href="https://github.com/sumyeom/GameMateProject">
     [GameMate 2025.01 ~ 2025.2]
   </a>
